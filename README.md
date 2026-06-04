@@ -1,8 +1,7 @@
 
   # Portfolio
 
-  This is a code bundle for Portfolio. The original project is available at https://www.figma.com/design/6ecjn1zd82LfzP6aqS8tv5/Portfolio.
-
+  This is a code bundle for Portfolio. 
   ## Running the code
 
   Run `npm i` to install the dependencies.
